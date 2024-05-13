@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0560806c.css",
+    "main.js": "./static/js/main.adf49c49.js",
+    "static/js/787.9e9f4ffd.chunk.js": "./static/js/787.9e9f4ffd.chunk.js",
+    "static/media/Orbitron-Medium.ttf": "./static/media/Orbitron-Medium.92ddd041092a7107e7f9.ttf",
+    "static/media/Orbitron-Regular.ttf": "./static/media/Orbitron-Regular.f51a498fdceceda5a5cb.ttf",
+    "static/media/Orbitron-Bold.ttf": "./static/media/Orbitron-Bold.2dd3cc0a5866320bdf54.ttf",
+    "static/media/Orbitron-Black.ttf": "./static/media/Orbitron-Black.f5c3ae771c7b8d1f5ba8.ttf",
+    "static/media/logoLogin.png": "./static/media/logoLogin.52d3f14bf478b708433e.png",
+    "index.html": "./index.html",
+    "main.0560806c.css.map": "./static/css/main.0560806c.css.map",
+    "main.adf49c49.js.map": "./static/js/main.adf49c49.js.map",
+    "787.9e9f4ffd.chunk.js.map": "./static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0560806c.css",
+    "static/js/main.adf49c49.js"
+  ]
+}
